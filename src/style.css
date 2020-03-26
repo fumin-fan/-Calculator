@@ -1,0 +1,11 @@
+
+.wrap{
+    width:50%;
+    min-height: 100%;
+    margin: 10px auto;
+    border-left: 10px solid #ccc;
+}
+
+.addNumber{
+    margin: 0 10px 10px 5px;
+}
